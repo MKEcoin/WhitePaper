@@ -1,6 +1,13 @@
 # WhitePaper
 Copyright (c) 2018-2021 The MKEcoin Project.   
 
+## Development resources
+
+- Web: [getMKEcoin.org](https://www.mkecoin.io/)
+- Forum: [forum.getMKEcoin.org](https://www.mkecoin.io/index.php?m=home&c=Lists&a=index&tid=10)
+- Mail: [dev@getMKEcoin.org](mailto:mke.technology@yahoo.com)
+- GitHub: [https://github.com/MKEcoin-project/MKEcoin](https://github.com/MKEcoin/WhitePaper.git)
+
 ## Introduce
 
 Mkecoin is not only committed to a kind of currency that can be exchanged and expanded, but also committed to continue to study multi-level financial applications involving two-tier architecture and expanding sub chains.
